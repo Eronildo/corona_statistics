@@ -1,16 +1,12 @@
-# corona
+# Corona App: Shows Country Statistics
 
-A new Flutter project.
+Simple State Management with ValueNotifier, InheritedWidget, Unit and Widget Tests.
 
-## Getting Started
+## Getting Started:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [About Corona API](https://about-corona.net/documentation)
+- [Simple State Management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
+- [ValueNotifier](https://api.flutter.dev/flutter/foundation/ValueNotifier-class.html)
+- [InheritedWidget](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+- [Unit Testing](https://flutter.dev/docs/cookbook/testing/unit/introduction)
+- [Widget Testing](https://flutter.dev/docs/cookbook/testing/widget/introduction)
